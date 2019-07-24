@@ -2,7 +2,7 @@
 # Author: Daniel Burger
 # Date: 2/23/2019
 # This program draws a patter of pairs of pound signs that have
-# more spaec inbetween them the further down you go
+# more spaces inbetween them the further down you go
 #################
 
 NUM_LINES = 9 # number of lines the code will print

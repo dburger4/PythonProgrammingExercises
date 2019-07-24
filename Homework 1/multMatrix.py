@@ -3,6 +3,7 @@
 # Date: 2/24/2019
 # This program multiplies two matrices and prints
 # results in matrix format
+# THIS PROGRAM IS INCORRECT, I DO NOT KNOW HOW TO MULTIPLY MATRICES
 #################
 
 M = [[2, -5, 8, 11],[3, 7, -9, -5], [4, 0, -1, 7]] #matrix
